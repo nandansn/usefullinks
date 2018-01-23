@@ -1,2 +1,3 @@
 https://sites.google.com/a/chromium.org/chromedriver/
 https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol
+tutorial -> https://www.guru99.com/first-webdriver-script.html
